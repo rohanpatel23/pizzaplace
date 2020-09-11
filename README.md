@@ -13,7 +13,7 @@
 -[ ] **10 Extra Credit**: Kitchen View with the Observer Design Pattern.
 -[ ] **2 Extra Credit**: Identify those mistakes
 
-**Your Grade:**  /20
+**Your Grade:**  18/20
 
 **Notes:**
 
